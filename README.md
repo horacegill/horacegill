@@ -1,6 +1,6 @@
-#HELLO THERE!
+# HELLO THERE!
 
-##My name is Horace, I'm learning how to program in python. I have always had a huge passion is problem solving and engineering and computing hence this GitHub which will be proof of my ability and joy for computing
+## My name is Horace, I'm learning how to program in python. I have always had a huge passion is problem solving and engineering and computing hence this GitHub which will be proof of my ability and joy for computing
 
 ## I have an ever growing plethora of skills and I am willing to do some freelancing. I specialise cyber security and malware development but thats not to say I won't leave my comfort zone to furfill and objective.
 

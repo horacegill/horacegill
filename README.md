@@ -1,4 +1,4 @@
-# HELLO THERE!
+# Hell0 Th3re!
 
 ### My name is Horace, I'm learning how to program in python. I have always had a huge passion is problem solving and engineering and computing hence this GitHub which will be proof of my ability and joy for computing
 
